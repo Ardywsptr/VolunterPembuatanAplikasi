@@ -1,6 +1,11 @@
 # Volunter Pembuatan Aplikasi
 
-Repository ini bersifat public dan siapa saja boleh untuk berkontribusi seabagai volunteer untuk pembuatan aplikasi.  
-Silahkan isi informasi berupa *Nama Lengkap, [Nama Portofolio](Alamat Protofolio) :
-- Ardy Wirasaputra, [Github](https://github.com/Ardywsptr)
-- 
+Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi . Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya. Silakan gunakan format berikut:
+
+
+**\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
+
+
+Berikut daftar Volunter yang diterima:
+
+* Ardy Wirasaputra, [Github](https://github.com/Ardywsptr).
